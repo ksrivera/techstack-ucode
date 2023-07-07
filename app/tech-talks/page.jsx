@@ -61,7 +61,7 @@ const TechTalksPage = () => {
 
       <div className="grid grid-cols-2 justify-stretch gap-x-4 gap-y-5 justify-items-center">
         <div className="searchSpan col-span-2 sm:col-span-2">
-          <htmlForm className="flex items-center">
+          <form className="flex items-center">
             <label htmlFor="simple-search" className="sr-only">
               Search
             </label>
@@ -111,12 +111,12 @@ const TechTalksPage = () => {
               </svg>
               <span className="sr-only">Search</span>
             </button>
-          </htmlForm>
+          </form>
         </div>
         {/* <Loading/> */}
         {loading ? null : <Loading />}
         {currentPost.map((item) => (
-          <StockFlow data={item} />
+          <StockFlow data={item} key={item}/>
         ))}
       </div>
       <p className="grid grid-cols-5 gap-2 px-96">
