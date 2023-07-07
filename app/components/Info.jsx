@@ -21,7 +21,7 @@ const Info = () => {
                                 A tech stack refers to the combination of technologies, programming languages, frameworks, and tools used to build and operate a website or web application. TechStack provides comprehensive insights and analysis of the tech stacks used by various websites across different industries.
                                 </p>
                                 <p className="mb-6 text-slate-200">
-                                TechStack's team of experts extensively researches and analyzes the underlying technology choices made by popular websites. They delve into the stack architecture, backend and frontend technologies, databases, cloud services, and other components that contribute to the functionality and performance of these websites.
+                                TechStacks team of experts extensively researches and analyzes the underlying technology choices made by popular websites. They delve into the stack architecture, backend and frontend technologies, databases, cloud services, and other components that contribute to the functionality and performance of these websites.
                                 </p>
                                 <p className="mb-6 text-slate-200">
                                 Through the TechStack platform, users can explore detailed profiles of different websites and gain valuable insights into their tech stacks. The platform showcases the tools and technologies adopted by these websites, providing a comprehensive breakdown of each component in their stack.

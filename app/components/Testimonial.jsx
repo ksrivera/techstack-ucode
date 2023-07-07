@@ -13,7 +13,7 @@ const Testimonial = () => {
                     <div
                     className="relative mx-4 -mt-4 w-full overflow-hidden rounded-lg bg-cover bg-no-repeat shadow-[0_2px_15px_-3px_rgba(0,0,0,0.07),0_10px_20px_-2px_rgba(0,0,0,0.04)]"
                     data-te-ripple-init data-te-ripple-color="light">
-                    <img src="https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80" className="w-full" />
+                    <img src="https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80" alt='testimonial 1' className="w-full" />
                     <a href="#!">
                         <div
                         className="absolute top-0 right-0 bottom-0 left-0 h-full w-full overflow-hidden bg-[hsl(0,0%,98.4%,0.15)] bg-fixed opacity-0 transition duration-300 ease-in-out hover:opacity-100">
@@ -72,7 +72,7 @@ const Testimonial = () => {
                     <div
                     className="relative mx-4 -mt-4 w-full overflow-hidden rounded-lg bg-cover bg-no-repeat shadow-[0_2px_15px_-3px_rgba(0,0,0,0.07),0_10px_20px_-2px_rgba(0,0,0,0.04)]"
                     data-te-ripple-init data-te-ripple-color="light">
-                    <img src="https://images.unsplash.com/photo-1499952127939-9bbf5af6c51c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1176&q=80" className="w-full" />
+                    <img src="https://images.unsplash.com/photo-1499952127939-9bbf5af6c51c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1176&q=80" alt='testimonial 2' className="w-full" />
                     <a href="#!">
                         <div
                         className="absolute top-0 right-0 bottom-0 left-0 h-full w-full overflow-hidden bg-[hsl(0,0%,98.4%,0.15)] bg-fixed opacity-0 transition duration-300 ease-in-out hover:opacity-100">
@@ -131,7 +131,7 @@ const Testimonial = () => {
                     <div
                     className="relative mx-4 -mt-4 w-full overflow-hidden rounded-lg bg-cover bg-no-repeat shadow-[0_2px_15px_-3px_rgba(0,0,0,0.07),0_10px_20px_-2px_rgba(0,0,0,0.04)]"
                     data-te-ripple-init data-te-ripple-color="light">
-                    <img src="https://images.unsplash.com/photo-1547425260-76bcadfb4f2c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80" className="w-full" />
+                    <img src="https://images.unsplash.com/photo-1547425260-76bcadfb4f2c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80" alt='testimonial 3' className="w-full" />
                     <a href="#!">
                         <div
                         className="absolute top-0 right-0 bottom-0 left-0 h-full w-full overflow-hidden bg-[hsl(0,0%,98.4%,0.15)] bg-fixed opacity-0 transition duration-300 ease-in-out hover:opacity-100">
@@ -177,7 +177,7 @@ const Testimonial = () => {
                     </li>
                     </ul>
                     <p>
-                    As an avid gamer, I rely on TechStack to stay updated with the latest gaming news, releases, and reviews. Their in-depth game reviews have helped me make informed decisions on which titles to invest my time and money in. I appreciate the objective approach they take in their evaluations, giving a fair assessment of the pros and cons of each game. The website\'s coverage of gaming hardware, tips, and tricks has also been invaluable in enhancing my gaming experience. I highly recommend TechStack to fellow gamers and tech enthusiasts alike!
+                    As an avid gamer, I rely on TechStack to stay updated with the latest gaming news, releases, and reviews. Their in-depth game reviews have helped me make informed decisions on which titles to invest my time and money in. I appreciate the objective approach they take in their evaluations, giving a fair assessment of the pros and cons of each game. The website coverage of gaming hardware, tips, and tricks has also been invaluable in enhancing my gaming experience. I highly recommend TechStack to fellow gamers and tech enthusiasts alike!
                     </p>
                 </div>
                 </div>
