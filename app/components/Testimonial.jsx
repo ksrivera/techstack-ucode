@@ -177,7 +177,7 @@ const Testimonial = () => {
                     </li>
                     </ul>
                     <p>
-                    As an avid gamer, I rely on TechStack to stay updated with the latest gaming news, releases, and reviews. Their in-depth game reviews have helped me make informed decisions on which titles to invest my time and money in. I appreciate the objective approach they take in their evaluations, giving a fair assessment of the pros and cons of each game. The website's coverage of gaming hardware, tips, and tricks has also been invaluable in enhancing my gaming experience. I highly recommend TechStack to fellow gamers and tech enthusiasts alike!
+                    As an avid gamer, I rely on TechStack to stay updated with the latest gaming news, releases, and reviews. Their in-depth game reviews have helped me make informed decisions on which titles to invest my time and money in. I appreciate the objective approach they take in their evaluations, giving a fair assessment of the pros and cons of each game. The website\'s coverage of gaming hardware, tips, and tricks has also been invaluable in enhancing my gaming experience. I highly recommend TechStack to fellow gamers and tech enthusiasts alike!
                     </p>
                 </div>
                 </div>
